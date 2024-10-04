@@ -1,1 +1,1 @@
-worker: python3 -m Mikobot
+web: python3 -m Mikobot
