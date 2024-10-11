@@ -27,6 +27,7 @@ future==1.0.0
 
 # ==== G ====
 gpytranslate==1.5.1
+git+https://github.com/KurimuzonAkuma/pyrogram.git
 
 # ==== H ====
 html2text==2024.2.26
@@ -62,6 +63,7 @@ pytz==2024.1
 python-arq==6.0.7
 pyrogram==2.0.106
 python-telegram-bot==21.6
+pyrotgfork
 
 # ==== R ====
 regex==2024.7.24
